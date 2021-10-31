@@ -1,12 +1,14 @@
-<table class="wikitable sortable jquery-tablesorter">
-<caption>Windows NT releases
-</caption>
+## Windows NT releases
+
+Source of the table: https://en.wikipedia.org/wiki/Windows_NT
+
+<table>
 <thead><tr>
-<th class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Version</th>
-<th class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Marketing name</th>
-<th class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Editions</th>
-<th class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending"><a href="/wiki/Software_release_life_cycle#Release" title="Software release life cycle">Release date</a></th>
-<th class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Build number
+<th  tabindex="0" role="columnheader button">Version</th>
+<th  tabindex="0" role="columnheader button">Marketing name</th>
+<th  tabindex="0" role="columnheader button">Editions</th>
+<th  tabindex="0" role="columnheader button"><a href="/wiki/Software_release_life_cycle#Release" title="Software release life cycle">Release date</a></th>
+<th  tabindex="0" role="columnheader button">Build number
 </th></tr></thead><tbody>
 <tr>
 <td>3.1</td>
