@@ -1,0 +1,9 @@
+<script>
+    if(location.href.endsWith("index.html") || location.href.endsWith("/")){
+        document.getElementsByTagName("header")[0].innerHTML += "<a href='../'>Parent directory</a>";
+    }else{
+        document.getElementsByTagName("header")[0].innerHTML += "<a href='"+location.pathname.split("/").pop()+"'>Parent directory</a>";
+    }
+</script>
+
+{{ content }}
